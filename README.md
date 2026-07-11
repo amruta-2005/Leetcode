@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amruta-2005/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/amruta-2005/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/amruta-2005/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/amruta-2005/Leetcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amruta-2005/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/amruta-2005/Leetcode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amruta-2005/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amruta-2005/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/amruta-2005/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/amruta-2005/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/amruta-2005/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amruta-2005/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -49,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amruta-2005/Leetcode/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/amruta-2005/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/amruta-2005/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
