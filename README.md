@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/amruta-2005/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/amruta-2005/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/amruta-2005/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amruta-2005/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/amruta-2005/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/amruta-2005/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/amruta-2005/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amruta-2005/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/amruta-2005/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amruta-2005/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
 | ------- |
