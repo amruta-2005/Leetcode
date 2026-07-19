@@ -9,14 +9,13 @@ public:
        {
             
             if(nums[right]==0)  countZero++;
-            while(countZero>k)
-            {
-                if(nums[left]==0)
+                if(countZero>k)
                 {
-                    countZero--;
+                    if(nums[left]==0)
+                          countZero--;
+                          left++;
                 }
-                  left++;
-            }
+                  
             if(countZero<=k)
             {
                 int len=right-left+1;
