@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/amruta-2005/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/amruta-2005/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/amruta-2005/Leetcode/tree/master/0258-add-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amruta-2005/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
