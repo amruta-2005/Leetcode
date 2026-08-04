@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/amruta-2005/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/amruta-2005/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/amruta-2005/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/amruta-2005/Leetcode/tree/master/0258-add-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amruta-2005/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amruta-2005/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/amruta-2005/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/amruta-2005/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amruta-2005/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/amruta-2005/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/amruta-2005/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/amruta-2005/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/amruta-2005/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
