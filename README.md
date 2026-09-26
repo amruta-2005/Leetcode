@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amruta-2005/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amruta-2005/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amruta-2005/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amruta-2005/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amruta-2005/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/amruta-2005/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amruta-2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/amruta-2005/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amruta-2005/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amruta-2005/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amruta-2005/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amruta-2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amruta-2005/Leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/amruta-2005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amruta-2005/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amruta-2005/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
