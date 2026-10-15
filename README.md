@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/amruta-2005/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/amruta-2005/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/amruta-2005/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amruta-2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
