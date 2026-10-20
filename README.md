@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/amruta-2005/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/amruta-2005/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amruta-2005/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0695-max-area-of-island](https://github.com/amruta-2005/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/amruta-2005/Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/amruta-2005/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/amruta-2005/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/amruta-2005/Leetcode/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/amruta-2005/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/amruta-2005/Leetcode/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amruta-2005/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amruta-2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -338,5 +341,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/amruta-2005/Leetcode/tree/master/0695-max-area-of-island) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amruta-2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/amruta-2005/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
